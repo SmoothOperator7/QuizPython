@@ -1,0 +1,46 @@
+{
+  "question": [
+    "Q1. Quelle est la capitale de la France?",
+    "Q2. Quelle est la formule chimique de l'eau ?",
+    "Q3. Quel ocean est le plus grand ?",
+    "Q4. Quel langage de programmation a ete cree en premier ?",
+    "Q5. Quelle est la capitale des Etats-Unis ?",
+    "Q6. "
+  ],
+  
+  "answer": [
+    2,
+    2,
+    3,
+    3,
+    1
+  ],
+
+  "options": [
+    ["Lyon",
+     "Paris",
+     "Lille",
+     "Rennes"
+    ],
+    ["CO2",
+     "H2O",
+     "O2",
+     "H2"
+    ],
+    ["Ocean Atlantique",
+     "Ocean Indien",
+     "Ocean Pacifique",
+     "Ocean Arctique"
+    ],
+    ["C#",
+     "C++",
+     "C",
+     "C--"
+    ],
+    [ "Washington",
+      "New York",
+      "Los Angeles",
+      "Miami"
+    ]
+  ]
+}
